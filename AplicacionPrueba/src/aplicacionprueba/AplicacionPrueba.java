@@ -17,7 +17,7 @@ public class AplicacionPrueba {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        // modificado por Richard
+        // modificado por Breisci
         
         // modificando el codigo fuente de mi aplicacion
         System.out.println("Hola Mundo");
