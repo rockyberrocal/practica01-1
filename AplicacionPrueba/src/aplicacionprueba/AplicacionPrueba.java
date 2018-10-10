@@ -20,6 +20,7 @@ public class AplicacionPrueba {
         
         // modificado por papu
         // modificado por richard
+        // modificado por richard Moises
         
         // modificando el codigo fuente de mi aplicacion
         System.out.println("Hola Mundo");
