@@ -17,13 +17,9 @@ public class AplicacionPrueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        // modificado por papu
-        // modificado por richard
-        // modificado por richard Moises
-        
+        //modificado por yulisa
         // modificando el codigo fuente de mi aplicacion
         System.out.println("Hola Mundo");
-      }
+    }
     
 }
